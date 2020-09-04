@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter01-basic/Chapter01-basic.iml" filepath="$PROJECT_DIR$/Chapter01-basic/Chapter01-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter02-process_control/Chapter02-process_control.iml" filepath="$PROJECT_DIR$/Chapter02-process_control/Chapter02-process_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter03-array/Chapter03-array.iml" filepath="$PROJECT_DIR$/Chapter03-array/Chapter03-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter04-string/Chapter04-string.iml" filepath="$PROJECT_DIR$/Chapter04-string/Chapter04-string.iml" />
+    </modules>
+  </component>
+</project>
